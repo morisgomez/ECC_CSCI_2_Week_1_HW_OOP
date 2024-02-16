@@ -1,4 +1,4 @@
-# ECC-Week1_OOP_HW
+# ECC_Week1_OOP_HW
 Write a class that will determine the monthly payment on a home mortgage. The monthly payment with interest compounded monthly can be calculated as follows:
 
 
